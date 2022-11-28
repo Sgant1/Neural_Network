@@ -78,3 +78,4 @@ Increasing the amount of iterations did not change all that much. Before working
 
 For furthering the analysis we can either bin certain columns to create smaller data clusters. We could also use scrapping neural networks with this dataset and using a RandomForest or AdaBoost analysis to see if that type of machine learning process would better fit the data provided. 
   
+I worked with Zack Freskan on this project.
